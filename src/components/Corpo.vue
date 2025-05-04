@@ -39,6 +39,7 @@
     align-items: center;
     height: 100vh;
     width: 100vw;
+    
    
    
     
@@ -52,7 +53,7 @@
     justify-content: center;
     height: 100vh;
 
-    background-color: rgb(121, 143, 155);
+    background-color: #fff;
     max-width: 1324px;
     border-radius: 20px;
     margin-top: 20px;

@@ -38,7 +38,6 @@ export default {
  
  height: 30vh;
  width: 100%;
- margin-bottom: 10px;
 
 }
 
